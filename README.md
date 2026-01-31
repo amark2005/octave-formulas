@@ -1,5 +1,4 @@
-GNU Octave Computational Notes
-
+GNU Octave Computational Notes - [ x ]
 This repository contains a collection of GNU Octave (.m) scripts developed for learning, experimentation, and validation of mathematical and engineering-style calculations.
 
 The goal is to build a reusable, transparent, and verifiable codebase for numerical reasoning and early-stage modeling.
